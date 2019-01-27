@@ -54,11 +54,7 @@ public class diceGame{
 			default:
 			System.out.println("Afraid you might lose? Come back when you're ready.");
 			break; 
-			}
-
-	
-
-		
+			}		
 
 	}
 }
